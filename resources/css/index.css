@@ -1,0 +1,12 @@
+h1 {
+  background-color: aqua;
+}
+
+.homelist {
+  background-color: aqua;
+}
+
+.homelist li {
+  display: inline-block;
+  margin-right: 10px;
+}
